@@ -35,7 +35,6 @@ public class exAula67 {
         System.out.println();
         System.out.println("Dados atualizados: " + Produto);
         
-
         sc.close();
 
     }
